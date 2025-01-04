@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Inigashree Saravanan
 
 # 💫 About Me:
 🔭 Pre-final year CSE student at KEC<br>🤝 Passionate Full-Stack Developer<br>🌱 Currently learning Machine learning <br>💼 I'm actively looking for roles in Full-Stack Development, Frontend Engineering, or Web Application Development. Let's connect!<br>⚡ I excel at finding the right answers, and I’m learning to craft the right solutions. 😊<br>📧 Contact Me: inigashreesarav22@gmail.com
