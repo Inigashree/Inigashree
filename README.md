@@ -3,6 +3,9 @@
 # 💫 About Me:
 🔭 Pre-final year CSE student at KEC<br>🤝 Passionate Full-Stack Developer<br>🌱 Currently learning Machine learning <br>💼 I'm actively looking for roles in Full-Stack Development, Frontend Engineering, or Web Application Development. Let's connect!<br>⚡ I excel at finding the right answers, and I’m learning to craft the right solutions. 😊<br>📧 Contact Me: inigashreesarav22@gmail.com
 
+[![Inigashree's GitHub stats](https://github-readme-stats.vercel.app/api?username=Inigashree)](https://github.com/Inigashree/github-readme-stats)
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/inigashree-saravanan/) 
